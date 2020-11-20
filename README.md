@@ -1,7 +1,7 @@
 # Quartus 18.1 Docker image
 
 
-This folder contains a docker image for Quartus 18.1 Standard Edition.
+This folder contains a docker image for Quartus 18.1.
 
 ## Usage
 
