@@ -1,7 +1,7 @@
 FROM ubuntu:16.04
 LABEL maintainer "Thierry Delafontaine <deaa@zhaw.ch>"
 ARG ALTERA_VER=18.1
-ARG QUARTUS=QuartusSetup-18.1.0.625-linux.run
+ARG QUARTUS=QuartusLiteSetup-18.1.0.625-linux.run
 ARG MODELSIM=ModelSimSetup-18.1.0.625-linux.run
 ARG DEVICES=*.qdz
 
