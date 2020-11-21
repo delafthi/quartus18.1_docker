@@ -1,5 +1,5 @@
 #!/bin/bash
-QUARTUS=QuartusSetup-18.1.0.625-linux.run
+QUARTUS=QuartusLiteSetup-18.1.0.625-linux.run
 MODELSIM=ModelSimSetup-18.1.0.625-linux.run
 ALTERA_VER=18.1
 docker image build \
